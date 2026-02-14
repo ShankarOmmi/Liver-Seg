@@ -39,7 +39,6 @@ This project focuses on liver segmentation from CT images using a deep learning-
 
 ## Contributors
 - [Shankar](https://github.com/ShankarOmmi)
-- [Thanuja](https://github.com/thanuja-bobbepalli)
 
 ## License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
