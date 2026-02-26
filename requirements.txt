@@ -1,0 +1,6 @@
+torch
+torchvision
+gradio
+monai
+numpy
+pillow
